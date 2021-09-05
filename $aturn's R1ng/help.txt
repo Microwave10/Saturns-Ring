@@ -1,0 +1,6 @@
+List of all the commands available in $aturn's R1ng:
+
+help - prints out this guide.
+pn - lets you choose a packet capture file and then choose a packet to analyze in that file.
+clear - clears the terminal window.
+quit - quits the tool.
